@@ -1,4 +1,0 @@
-hey everyone, 
-
-
-this is a git file.
