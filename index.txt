@@ -1,14 +1,1 @@
 Git
-Git is a distributed version control system used to track changes in source code during software development. It allows multiple developers to work on a project simultaneously without overwriting each other's changes. Key features include:
-
-Version Tracking: Keeps a history of changes made to files, allowing you to revert to previous versions if needed.
-Branching and Merging: Enables parallel development through branches, which can be merged back into the main codebase.
-Distributed Nature: Each developer has a full copy of the project repository, including its history, which allows offline work and enhances data redundancy.
-GitHub
-GitHub is a web-based platform that uses Git for version control and provides additional collaboration features. It allows developers to host their Git repositories online, making it easier to share and collaborate on code. Key features include:
-
-Repository Hosting: Stores Git repositories in the cloud, making them accessible from anywhere.
-Collaboration Tools: Includes features like pull requests, code reviews, issue tracking, and project boards.
-Social Coding: Provides features for following other developers, starring repositories, and contributing to open-source projects.
-Integration: Integrates with various development tools and services to automate workflows, such as Continuous Integration/Continuous Deployment (CI/CD).
-In summary, Git is the tool for version control, and GitHub is a platform that extends Git with cloud-based hosting and collaboration features.
